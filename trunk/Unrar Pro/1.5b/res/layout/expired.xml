@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout android:id="@id/widget0" android:background="@drawable/background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="16.0sp" android:textStyle="bold" android:id="@id/TV_expired" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="抱歉，该程序已到期，您无法继续使用，请到 Android 电子市场更新最新版本的程序" android:layout_x="7.0px" android:layout_y="13.0px" />
+</AbsoluteLayout>

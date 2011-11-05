@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/unrar_pro_settings_title">
+        <CheckBoxPreference android:title="@string/show_password_title" android:key="show_password_key" android:summary="@string/show_password_summary" />
+        <CheckBoxPreference android:title="@string/keep_broken_title" android:key="keep_broken_key" android:summary="@string/keep_broken_summary" />
+        <EditTextPreference android:title="解压地址" android:key="extraction_path_key" android:summary="@string/extraction_path_summary" android:dialogTitle="解压地址" android:dialogMessage="设置解压文件的路径，留空则解压到压缩文件所在的目录" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:background="#ff222222" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListView android:id="@id/filelist_view" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_weight="1.0" />
+    <LinearLayout android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="2.0px" />
+    <ProgressBar android:id="@id/findfilesprogressbar" android:layout_width="fill_parent" android:layout_height="wrap_content" style="?android:attr/progressBarStyleHorizontal" />
+    <Spinner android:id="@id/filetype_spinner" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:id="@id/linearLayout1" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <Button android:id="@id/fileselect_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="选择" android:layout_weight="1.0" />
+        <Button android:id="@id/filecancel_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="取消" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

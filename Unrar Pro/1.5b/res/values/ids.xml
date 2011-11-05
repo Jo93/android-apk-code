@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="widget0">false</item>
+    <item type="id" name="TV_expired">false</item>
+    <item type="id" name="filelist_view">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="findfilesprogressbar">false</item>
+    <item type="id" name="filetype_spinner">false</item>
+    <item type="id" name="fileselect_button">false</item>
+    <item type="id" name="filecancel_button">false</item>
+    <item type="id" name="itemfoldername">false</item>
+    <item type="id" name="itemfilename">false</item>
+    <item type="id" name="linearLayout2">false</item>
+    <item type="id" name="linearLayout3">false</item>
+    <item type="id" name="itemmulticb">false</item>
+    <item type="id" name="itemmultifoldername">false</item>
+    <item type="id" name="itemmultifilename">false</item>
+    <item type="id" name="file_path">false</item>
+    <item type="id" name="file_manager">false</item>
+    <item type="id" name="unrar_button">false</item>
+    <item type="id" name="progress_label_textview">false</item>
+    <item type="id" name="progress_textview">false</item>
+    <item type="id" name="elapsed_time_label_textview">false</item>
+    <item type="id" name="elapsed_time_textview">false</item>
+    <item type="id" name="extraction_progress">false</item>
+    <item type="id" name="current_rar_label_textview">false</item>
+    <item type="id" name="current_rar_textview">false</item>
+    <item type="id" name="current_file_label_textview">false</item>
+    <item type="id" name="current_file_textview">false</item>
+</resources>

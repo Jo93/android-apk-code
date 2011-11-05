@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, FileBrowserActivity!</string>
+    <string name="app_name">Unrar Pro</string>
+    <string name="pick">选择 .rar 格式的压缩文件</string>
+    <string name="progress_label">处理中:</string>
+    <string name="progress">0%</string>
+    <string name="elapsed_time_label">已用时间:</string>
+    <string name="elapsed_time">0:00</string>
+    <string name="current_rar_label">压缩文件:</string>
+    <string name="current_rar" />
+    <string name="current_file_label">当前文件:</string>
+    <string name="current_file" />
+    <string name="unrar_button">解压</string>
+    <string name="open_title">选择需要打开的文件</string>
+    <string name="open_button">打开</string>
+    <string name="no_filemanager_installed">找不到文件管理器</string>
+    <string name="install_search_msg">该功能需要文件管理器的支持，现在安装？或者您可以输入压缩文件的完整路径</string>
+    <string name="install_search_title">安装文件管理器?</string>
+    <string name="default_yes">是</string>
+    <string name="default_no">否</string>
+    <string name="oi_file_man_url">market://search?q=pname:org.openintents.filemanager</string>
+    <string name="newzdroid_url">market://search?q=pname:us.crmx.nzb</string>
+    <string name="menu_about">关于</string>
+    <string name="about_title">关于</string>
+    <string name="about_msg">感谢您使用 Unrar！另外推荐您使用一款我们的制作的下载软件 NewzDroid</string>
+    <string name="about_yes">去电子市场看看</string>
+    <string name="about_no">不，谢谢</string>
+    <string name="unrar_pro_settings_title">Unrar Pro 设置</string>
+    <string name="show_password_title">显示密码</string>
+    <string name="show_password_summary">输入密码的时候显示密码内容</string>
+    <string name="keep_broken_title">保留损坏的文件</string>
+    <string name="keep_broken_summary">保留分卷或损坏的压缩文件</string>
+    <string name="extraction_path_summary">将文件解压到目录</string>
+    <string name="menu_edit_settings">设置</string>
+</resources>
